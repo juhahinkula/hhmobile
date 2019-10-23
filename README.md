@@ -1,4 +1,4 @@
-# Welcome to Mobile Programming course portfolio site
+# Mobile Programming course portfolio site
 
 ## Fall 2019
 
