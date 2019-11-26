@@ -2,4 +2,8 @@
 
 ## Fall 2019
 
-Here will be the projects...
+### Book Worm
+
+A simple book application built with React Native, Redux and Firebase. User can add books they are reading and mark them as read / unread. 
+
+![screenshot]({{ site.baseurl }}/img/IMG_1065.PNG)
