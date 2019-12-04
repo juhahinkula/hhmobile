@@ -4,6 +4,18 @@ Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4
 
 ## Fall 2019
 
+### TopySoft
+by Vivian Bridy
+
+Topysoft is an app that helps companies, organisations or simply groups of people to 
+gather money for an event.
+
+A user signs up to the app. Then he will meet an administrator who will register him as a member for a particular event(simply by scanning a qrcode on the user's phone). The user can now begin to gather donation for the event. Each time, he will collect informations about the donator. Those informations are then saved to be reused for an other edition of that event.
+
+Technologies: Flutter, Firebase
+![screenshot]({{ site.baseurl }}/img/Screenshot_1575144638.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144730.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144740.png)
+
+
 ### Book Worm
 
 A simple book application built with React Native, Redux and Firebase. User can add books they are reading and mark them as read / unread. 
