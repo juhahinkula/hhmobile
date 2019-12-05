@@ -33,7 +33,7 @@ A simple weather app built with React Native. Users can check the current weathe
 
 User can search boardgames and their rules. There is also possibility to save own favorites.  App is using public Rest API and it is developed using React Native.
 
-![screenshot]({{ site.baseurl }}/img/board1.jpg)
+![screenshot]({{ site.baseurl }}/img/board1.jpg) ![screenshot]({{ site.baseurl }}/img/board2.jpg) ![screenshot]({{ site.baseurl }}/img/board3.jpg)
 
 ### Book Worm
 
