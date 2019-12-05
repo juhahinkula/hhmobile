@@ -21,7 +21,7 @@ Technologies: Flutter, Firebase
 
 A project manager app built with React Native. Create tasks for your projects, organize them using custom categories, and track their progress with project milestones.
 
-![screenshot]({{ site.baseurl }}/img/screenshot-1.png)
+![screenshot]({{ site.baseurl }}/img/screenshot-2.png) ![screenshot]({{ site.baseurl }}/img/screenshot-3.png) ![screenshot]({{ site.baseurl }}/img/screenshot-4.png)
 
 ### Weather Mapped
 
