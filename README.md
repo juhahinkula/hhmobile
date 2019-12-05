@@ -17,6 +17,12 @@ Technologies: Flutter, Firebase
 ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144638.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144730.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144740.png)
 ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144748.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144763.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144802.png) 
 
+### Project Manager
+
+A project manager app built with React Native. Create tasks for your projects, organize them using custom categories, and track their progress with project milestones.
+
+![screenshot]({{ site.baseurl }}/img/screenshot-1.png)
+
 ### Weather Mapped
 
 A simple weather application built with React Native. Users can check the current weather of the location by tapping it on the map. Users can also mark their favorite locations on the map.
