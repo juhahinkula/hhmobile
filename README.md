@@ -29,9 +29,9 @@ A simple weather app built with React Native. Users can check the current weathe
 
 ![screenshot]({{ site.baseurl }}/img/weathermapped_screenshot1.jpg) ![screenshot]({{ site.baseurl }}/img/weathermapped_screenshot2.jpg) 
 
-### Boardgame Finder
+### BoardGame Finder
 
-User can search boardgames and their rules. There is also possibility to save own favorites.  App is using public Rest API and it is developed using React Native.
+User can search board games and their rules. There is also possibility to save own favorites.  App is using public Rest API and it is developed using React Native.
 
 ![screenshot]({{ site.baseurl }}/img/board1.jpg) ![screenshot]({{ site.baseurl }}/img/board2.jpg) ![screenshot]({{ site.baseurl }}/img/board3.jpg)
 
