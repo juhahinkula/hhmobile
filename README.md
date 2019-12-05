@@ -25,9 +25,15 @@ A project manager app built with React Native. Create tasks for your projects, o
 
 ### Weather Mapped
 
-A simple weather application built with React Native. Users can check the current weather of the location by tapping it on the map. Users can also mark their favorite locations on the map.
+A simple weather app built with React Native. Users can check the current weather of the location by tapping it on the map. Users can also mark their favorite locations on the map.
 
 ![screenshot]({{ site.baseurl }}/img/weathermapped_screenshot1.jpg) ![screenshot]({{ site.baseurl }}/img/weathermapped_screenshot2.jpg) 
+
+### Boardgame Finder
+
+User can search boardgames and their rules. There is also possibility to save own favorites.  App is using public Rest API and it is developed using React Native.
+
+![screenshot]({{ site.baseurl }}/img/board1.jpg)
 
 ### Book Worm
 
