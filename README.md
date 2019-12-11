@@ -44,7 +44,8 @@ Chat UI, Flatlist, react-navigation
 
 Tehcnologies in the back end: Socket-chat.io, NodeJs
 
-![screenshot]({{ site.baseurl }}/img/Screenshot 2019-12-11 at 0.54.13.png)
+![screenshot]({{ site.baseurl }}/img/Screenshot 2019-12-11 at 0.54.13.png) ![screenshot]({{ site.baseurl }}/img/
+Screenshot 2019-12-11 at 1.00.23.png) ![screenshot]({{ site.baseurl }}/img/Screenshot 2019-12-11 at 0.58.14.png)
 
 ### Book Worm
 
