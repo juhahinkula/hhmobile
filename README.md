@@ -29,6 +29,12 @@ A simple weather app built with React Native. Users can check the current weathe
 
 ![screenshot]({{ site.baseurl }}/img/weathermapped_screenshot1.jpg) ![screenshot]({{ site.baseurl }}/img/weathermapped_screenshot2.jpg) 
 
+### Dog Meeting
+
+Dogs meeting app for breeding purposes built with React Native. Using Firebase for authentication and saving.
+
+![screenshot]({{ site.baseurl }}/img/dog_meet1.png) ![screenshot]({{ site.baseurl }}/img/dog_meet2.png) ![screenshot]({{ site.baseurl }}/img/dog_meet4.png)
+
 ### BoardGame Finder
 
 User can search board games and their rules. There is also possibility to save own favorites.  App is using public Rest API and it is developed using React Native.
