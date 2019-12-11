@@ -35,6 +35,17 @@ User can search board games and their rules. There is also possibility to save o
 
 ![screenshot]({{ site.baseurl }}/img/board1.jpg) ![screenshot]({{ site.baseurl }}/img/board2.jpg) ![screenshot]({{ site.baseurl }}/img/board3.jpg)
 
+### Realtime Chat
+
+Realtime chat app with server side implementation.
+
+Tehcnologies in the front end: React Native (Hook, ES6), Redux, Gifted
+Chat UI, Flatlist, react-navigation
+
+Tehcnologies in the back end: Socket-chat.io, NodeJs
+
+![screenshot]({{ site.baseurl }}/img/Screenshot 2019-12-11 at 0.54.13.png)
+
 ### Book Worm
 
 A simple book application built with React Native, Redux and Firebase. User can add books they are reading and mark them as read / unread. 
