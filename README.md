@@ -17,6 +17,12 @@ Technologies: Flutter, Firebase
 ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144638.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144730.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144740.png)
 ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144748.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144763.png) ![screenshot]({{ site.baseurl }}/img/Screenshot_1575144802.png) 
 
+### Navix
+
+Tourist travel app built with React Native. User can find different locations according to category and distance. App can find route to the location by public transports and walking
+
+![screenshot]({{ site.baseurl }}/img/navix2.png) ![screenshot]({{ site.baseurl }}/img/navix3.png) ![screenshot]({{ site.baseurl }}/img/navix4.png)
+
 ### Project Manager
 
 A project manager app built with React Native. Create tasks for your projects, organize them using custom categories, and track their progress with project milestones.
