@@ -10,7 +10,7 @@ by Vivian Bridy
 Topysoft is an app that helps companies, organisations or groups of people to 
 gather money for an event.
 
-A user signs up to the app. Then he will meet an administrator who will register him as a member for a particular event (simply by scanning a qrcode on the user's phone). The user can now begin to gather donation for the event. Each time, he will collect informations about the donator. Those informations are then saved to be reused for an other edition of that event.
+A user signs up to the app. Then he will meet an administrator who will register him as a member for a particular event (simply by scanning a qrcode on the user's phone). The user can now begin to gather donation for the event. Each time, user will collect informations about the donator. Those informations are then saved to be reused for an other edition of that event.
 
 Technologies: Flutter, Firebase
 
