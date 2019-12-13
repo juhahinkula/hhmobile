@@ -30,6 +30,8 @@ Mobile app for object recognition. The students built the mobile app using React
 
 The app can be found from [Google Play](https://play.google.com/store/apps/details?id=com.main.awesome)
 
+![screenshot]({{ site.baseurl }}/img/piksly1.png) ![screenshot]({{ site.baseurl }}/img/piksly2.png) ![screenshot]({{ site.baseurl }}/img/piksly3.png)
+
 ### Project Manager
 
 A project manager app built with React Native. Create tasks for your projects, organize them using custom categories, and track their progress with project milestones.
