@@ -30,7 +30,7 @@ Mobile app for object recognition. The students built the mobile app using React
 
 The app can be found from [Google Play](https://play.google.com/store/apps/details?id=com.main.awesome)
 
-![screenshot]({{ site.baseurl }}/img/piksly1.png) ![screenshot]({{ site.baseurl }}/img/piksly2.png) ![screenshot]({{ site.baseurl }}/img/piksly3.png)
+![screenshot]({{ site.baseurl }}/img/piksly1.jpg) ![screenshot]({{ site.baseurl }}/img/piksly2.jpg) ![screenshot]({{ site.baseurl }}/img/piksly3.jpg)
 
 ### Project Manager
 
