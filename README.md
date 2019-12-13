@@ -23,6 +23,13 @@ Tourist travel app built with React Native. User can find different locations ac
 
 ![screenshot]({{ site.baseurl }}/img/navix2.png) ![screenshot]({{ site.baseurl }}/img/navix3.png) ![screenshot]({{ site.baseurl }}/img/navix4.png)
 
+### Piksly
+By Emil Kaidesoja & Elmeri Kinnunen
+
+Mobile app for object recognition. The students built the mobile app using React Native and backend using Python. Backend is using Keras deep learning library for Python. 
+
+The app can be found from [Google Play](https://play.google.com/store/apps/details?id=com.main.awesome)
+
 ### Project Manager
 
 A project manager app built with React Native. Create tasks for your projects, organize them using custom categories, and track their progress with project milestones.
