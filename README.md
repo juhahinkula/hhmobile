@@ -36,7 +36,7 @@ The app can be found from [Google Play](https://play.google.com/store/apps/detai
 
 The React Native app to keep ideas, dreams and aspirations. Authentication and saving is implemented by using Firebase.
 
-![screenshot]({{ site.baseurl }}/img/tenac2.jpg) ![screenshot]({{ site.baseurl }}/img/tenac1.jpg) ![screenshot]({{ site.baseurl }}/img/tenac3.jpg)
+![screenshot]({{ site.baseurl }}/img/tenac2.png) ![screenshot]({{ site.baseurl }}/img/tenac1.png) ![screenshot]({{ site.baseurl }}/img/tenac3.png)
 
 ### Project Manager
 
