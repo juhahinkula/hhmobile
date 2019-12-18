@@ -32,6 +32,12 @@ The app can be found from [Google Play](https://play.google.com/store/apps/detai
 
 ![screenshot]({{ site.baseurl }}/img/piksly1.jpg) ![screenshot]({{ site.baseurl }}/img/piksly2.jpg) ![screenshot]({{ site.baseurl }}/img/piksly3.jpg)
 
+### Tenacious
+
+The React Native app to keep ideas, dreams and aspirations. Authentication and saving is implemented by using Firebase.
+
+![screenshot]({{ site.baseurl }}/img/tenac2.jpg) ![screenshot]({{ site.baseurl }}/img/tenac1.jpg) ![screenshot]({{ site.baseurl }}/img/tenac3.jpg)
+
 ### Project Manager
 
 A project manager app built with React Native. Create tasks for your projects, organize them using custom categories, and track their progress with project milestones.
