@@ -3,7 +3,11 @@
 Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4th semester course for software development students. The course contains the basics of React Native and students will develop their own mobile app at the end of the course. This site contains some example apps that students have made during the course.
 
 ## Spring 2020
-Coming soon...
+
+### MovieBox
+by Bohan Liu
+
+The MovieBox is a movie/TV show collection app. You can find the popular, top-rated and upcoming list of movies/TV shows. The app uses a real-time movie database API, so the content will always be the latest. In the discover page, you can also search for movies/TV shows. You can type the keyword and it will show all movies/TV shows that include that keyword, and you can clear the result. In me page, you can log in or sign up or use social media account to login in. You can change the brightness inside this app, and make your phone always awake when you are using this app
 
 ## Fall 2019
 
