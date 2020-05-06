@@ -11,6 +11,14 @@ The MovieBox is a movie/TV show collection app. You can find the popular, top-ra
 
 ![screenshot]({{ site.baseurl }}/img/movie1.PNG) ![screenshot]({{ site.baseurl }}/img/movie2.PNG) ![screenshot]({{ site.baseurl }}/img/movie3.PNG) 
 
+### Pet Adoption
+
+The app for adopting pets. You can use map to see pets that are available for adoption near you. 
+
+
+![screenshot]({{ site.baseurl }}/img/petAdoption_1.png) ![screenshot]({{ site.baseurl }}/img/petAdoption_2.png) ![screenshot]({{ site.baseurl }}/img/petAdoption_3.png)
+
+
 ## Fall 2019
 
 ### TopySoft
