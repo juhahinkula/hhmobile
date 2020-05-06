@@ -9,7 +9,7 @@ by Bohan Liu
 
 The MovieBox is a movie/TV show collection app. You can find the popular, top-rated and upcoming list of movies/TV shows. The app uses a real-time movie database API, so the content will always be the latest. In the discover page, you can also search for movies/TV shows. You can type the keyword and it will show all movies/TV shows that include that keyword, and you can clear the result. In me page, you can log in or sign up or use social media account to login in. You can change the brightness inside this app, and make your phone always awake when you are using this app
 
-![screenshot]({{ site.baseurl }}/img/movie1.png) ![screenshot]({{ site.baseurl }}/img/movie2.png) ![screenshot]({{ site.baseurl }}/img/movie3.png) 
+![screenshot]({{ site.baseurl }}/img/movie1.PNG) ![screenshot]({{ site.baseurl }}/img/movie2.PNG) ![screenshot]({{ site.baseurl }}/img/movie3.PNG) 
 
 ## Fall 2019
 
