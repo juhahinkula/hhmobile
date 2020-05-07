@@ -17,6 +17,11 @@ The app for adopting pets. You can use map to see pets that are available for ad
 
 ![screenshot]({{ site.baseurl }}/img/petAdoption_1.png) ![screenshot]({{ site.baseurl }}/img/petAdoption_2.png) ![screenshot]({{ site.baseurl }}/img/petAdoption_3.png)
 
+### Password Generator
+
+This app can used to generate and save passwords. Password generator is using public API. User can define the length and some other rules of password.
+
+![screenshot]({{ site.baseurl }}/img/pwd1.PNG) ![screenshot]({{ site.baseurl }}/img/pwd2.PNG) ![screenshot]({{ site.baseurl }}/img/pwd3.PNG)
 
 ## Fall 2019
 
