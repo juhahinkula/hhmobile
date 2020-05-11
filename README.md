@@ -23,6 +23,10 @@ This app can used to generate and save passwords. Password generator is using pu
 
 ![screenshot]({{ site.baseurl }}/img/pwd1.PNG) ![screenshot]({{ site.baseurl }}/img/pwd2.PNG) ![screenshot]({{ site.baseurl }}/img/pwd3.PNG)
 
+### Lyrics Finder
+
+Lyrics finder is a simple mobile app for finding song lyrics.  The Search can be done by using artist's name, album title or using only the song title. User has a possibility to save songs to favourites and also play a little preview of the song. Authentication and saving is implemented by using Firebase.
+
 ## Fall 2019
 
 ### TopySoft
