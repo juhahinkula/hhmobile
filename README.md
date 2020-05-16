@@ -33,13 +33,13 @@ Lyrics finder is a simple mobile app for finding song lyrics.  The Search can be
 
 This tracker provides the number of patients diagnosed with the novel coronavirus, the number of deceased patients and the number of recovered patients. The data are based on research by Johns Hopkins University (JHU) and the World Health Organization’s (WHO) Coronavirus Disease (COVID-2019) situation reports.
 
-[screenshot]({{ site.baseurl }}/img/covid1.png) [screenshot]({{ site.baseurl }}/img/covid2.png) [screenshot]({{ site.baseurl }}/img/covid3.png)
+![screenshot]({{ site.baseurl }}/img/covid1.png) ![screenshot]({{ site.baseurl }}/img/covid2.png) ![screenshot]({{ site.baseurl }}/img/covid3.png)
 
 ### Forks & Knives
 
 Receipe finder with links to instruction videos. User can rate receipes and save own favorite lists to Firebase.
 
-[screenshot]({{ site.baseurl }}/img/forks2.png) [screenshot]({{ site.baseurl }}/img/forks2.png) [screenshot]({{ site.baseurl }}/img/forks3.png)
+![screenshot]({{ site.baseurl }}/img/forks2.png) ![screenshot]({{ site.baseurl }}/img/forks2.png) ![screenshot]({{ site.baseurl }}/img/forks3.png)
 
 
 ## Fall 2019
