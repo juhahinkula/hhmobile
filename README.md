@@ -37,9 +37,9 @@ This tracker provides the number of patients diagnosed with the novel coronaviru
 
 ### Forks & Knives
 
-Receipe finder with links to instruction videos. User can save own favorite lists to Firebase.
+Receipe finder with links to instruction videos. User can rate receipes and save own favorite lists to Firebase.
 
-[screenshot]({{ site.baseurl }}/img/forks2.jpeg) [screenshot]({{ site.baseurl }}/img/forks2.jpeg) [screenshot]({{ site.baseurl }}/img/forks3.jpeg)
+[screenshot]({{ site.baseurl }}/img/forks2.png) [screenshot]({{ site.baseurl }}/img/forks2.png) [screenshot]({{ site.baseurl }}/img/forks3.png)
 
 
 ## Fall 2019
