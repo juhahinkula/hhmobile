@@ -29,6 +29,12 @@ Lyrics finder is a simple mobile app for finding song lyrics.  The Search can be
 
 ![screenshot]({{ site.baseurl }}/img/lyrics1.jpg) ![screenshot]({{ site.baseurl }}/img/lyrics2.jpg) ![screenshot]({{ site.baseurl }}/img/lyrics3.jpg)
 
+### Covid-19 tracker
+
+This tracker provides the number of patients diagnosed with the novel coronavirus, the number of deceased patients and the number of recovered patients. The data are based on research by Johns Hopkins University (JHU) and the World Health Organization’s (WHO) Coronavirus Disease (COVID-2019) situation reports.
+
+[screenshot]({{ site.baseurl }}/img/covid1.jpeg) [screenshot]({{ site.baseurl }}/img/covid2.jpeg) [screenshot]({{ site.baseurl }}/img/covid3.jpeg)
+
 ## Fall 2019
 
 ### TopySoft
