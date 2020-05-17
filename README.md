@@ -39,7 +39,7 @@ This tracker provides the number of patients diagnosed with the novel coronaviru
 
 Receipe finder with links to instruction videos. User can rate receipes and save own favorite lists to Firebase.
 
-![screenshot]({{ site.baseurl }}/img/forks2.png) ![screenshot]({{ site.baseurl }}/img/forks2.png) ![screenshot]({{ site.baseurl }}/img/forks3.png)
+![screenshot]({{ site.baseurl }}/img/forks1.png) ![screenshot]({{ site.baseurl }}/img/forks2.png) ![screenshot]({{ site.baseurl }}/img/forks3.png)
 
 
 ## Fall 2019
