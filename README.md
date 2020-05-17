@@ -45,6 +45,7 @@ Receipe finder with links to instruction videos. User can rate receipes and save
 
 "Where to go Helsinki" is an app that gives you an opportunity to find interesting events and places in the Helsinki area. To make it easier the events and places are divided into categories. If you are visiting Helsinki for the first time in your life you don't have to worry about where to eat or how to find accommodation because this info is already in the app. You can save events and places that you liked or would like to visit later.
 
+![screenshot]({{ site.baseurl }}/img/hel2.png) ![screenshot]({{ site.baseurl }}/img/hel4.png) ![screenshot]({{ site.baseurl }}/img/hel3.png)
 
 ## Fall 2019
 
