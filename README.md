@@ -52,7 +52,7 @@ by Anastasiia Burkova
 
 Vacay is a traveling blog app. Users can write, modify or delete their blog posts and read the blog posts of other users. Blogs are sorted by countries which is based on the user’s post location. Every user has a personal map where he can see all the locations he has been visiting and writing about. There is also a possibility to search flight tickets in order to expand the traveling experience. Skyscanner Rapid API is used for that purpose. 
 
-![screenshot]({{ site.baseurl }}/img/vacay1.PNG) 
+![screenshot]({{ site.baseurl }}/img/vacay1.PNG) ![screenshot]({{ site.baseurl }}/img/vacay2.PNG) ![screenshot]({{ site.baseurl }}/img/vacay3.PNG)
 
 ## Fall 2019
 
