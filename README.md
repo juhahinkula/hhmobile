@@ -47,6 +47,12 @@ Receipe finder with links to instruction videos. User can rate receipes and save
 
 ![screenshot]({{ site.baseurl }}/img/hel2.jpg) ![screenshot]({{ site.baseurl }}/img/hel4.jpg) ![screenshot]({{ site.baseurl }}/img/hel3.jpg)
 
+### Vacay
+by Anastasiia Burkova
+
+Vacay is a traveling blog app. Users can write, modify or delete their blog posts and read the blog posts of other users. Blogs are sorted by countries which is based on the user’s post location. Every user has a personal map where he can see all the locations he has been visiting and writing about. There is also a possibility to search flight tickets in order to expand the traveling experience. Skyscanner Rapid API is used for that purpose. 
+
+
 ## Fall 2019
 
 ### TopySoft
