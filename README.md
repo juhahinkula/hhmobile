@@ -19,7 +19,7 @@ The app for adopting pets. You can use map to see pets that are available for ad
 
 ### Password Generator
 
-This app can used to generate and save passwords. Password generator is using public API. User can define the length and some other rules of password.
+This app can be used to generate and save passwords. Password generator is using public API. User can define the length and some other rules of password.
 
 ![screenshot]({{ site.baseurl }}/img/pwd1.PNG) ![screenshot]({{ site.baseurl }}/img/pwd2.PNG) ![screenshot]({{ site.baseurl }}/img/pwd3.PNG)
 
@@ -37,7 +37,7 @@ This tracker provides the number of patients diagnosed with the novel coronaviru
 
 ### Forks & Knives
 
-Receipe finder with links to instruction videos. User can rate receipes and save own favorite lists to Firebase.
+Receipe finder with links to instruction videos. User can rate receipes and save own favorite lists to the Firebase.
 
 ![screenshot]({{ site.baseurl }}/img/forks1.png) ![screenshot]({{ site.baseurl }}/img/forks2.png) ![screenshot]({{ site.baseurl }}/img/forks3.png)
 
