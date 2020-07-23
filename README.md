@@ -50,7 +50,7 @@ Receipe finder with links to instruction videos. User can rate receipes and save
 ### Vacay
 by Anastasiia Burkova
 
-Vacay is a traveling blog app. Users can write, modify or delete their blog posts and read the blog posts of other users. Blogs are sorted by countries which is based on the user’s post location. Every user has a personal map where he can see all the locations he has been visiting and writing about. There is also a possibility to search flight tickets in order to expand the traveling experience. Skyscanner Rapid API is used for that purpose. 
+Vacay is a traveling blog app. Users can write, modify or delete their blog posts and read the blog posts of other users. Blogs are sorted by countries that is based on the user’s post location. Every user has a personal map where he can see all the locations he has been visiting and writing about. There is also a possibility to search flight tickets in order to expand the traveling experience. Skyscanner Rapid API is used for that purpose. 
 
 ![screenshot]({{ site.baseurl }}/img/vacay1.PNG) ![screenshot]({{ site.baseurl }}/img/vacay2.PNG) ![screenshot]({{ site.baseurl }}/img/vacay3.PNG)
 
@@ -86,13 +86,13 @@ The app can be found from [Google Play](https://play.google.com/store/apps/detai
 
 ### Tenacious
 
-The React Native app to keep ideas, dreams and aspirations. Authentication and saving is implemented by using Firebase.
+The React Native app to keep ideas, dreams and aspirations. Authentication and saving is implemented by using the Firebase.
 
 ![screenshot]({{ site.baseurl }}/img/tenac2.png) ![screenshot]({{ site.baseurl }}/img/tenac1.png) ![screenshot]({{ site.baseurl }}/img/tenac3.png)
 
 ### Project Manager
 
-A project manager app built with React Native. Create tasks for your projects, organize them using custom categories, and track their progress with project milestones.
+A project manager app built with React Native. Create tasks for your projects, organize these using custom categories, and track their progress with project milestones.
 
 ![screenshot]({{ site.baseurl }}/img/screenshot-2.png) ![screenshot]({{ site.baseurl }}/img/screenshot-3.png) ![screenshot]({{ site.baseurl }}/img/screenshot-4.png)
 
