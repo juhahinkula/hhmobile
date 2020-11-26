@@ -4,7 +4,11 @@ Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4
 
 ## Fall 2020
 
-Coming soon...
+### City Transit App
+
+The City Transit App can be used to locate city bikes all around the world. The app shows how many bikes are available in each location. The app can be also used to see public transport schedules  in the Helsinki area.
+
+
 
 ## Spring 2020
 
