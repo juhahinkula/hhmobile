@@ -12,7 +12,7 @@ The City Transit App can be used to locate city bikes all around the world. The 
 
 ### Water Intake App
 
-An app to track daily water intake made using Expo, React Native and Firebase Realtime Database. See more deatils from https://github.com/henettaja/water-tracker.
+An app to track daily water intake made using Expo, React Native and Firebase Realtime Database. See more details from https://github.com/henettaja/water-tracker.
 
 ![screenshot]({{ site.baseurl }}/img/Water1.png) ![screenshot]({{ site.baseurl }}/img/Water2.png) ![screenshot]({{ site.baseurl }}/img/Water3.png) 
 
