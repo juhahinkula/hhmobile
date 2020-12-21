@@ -4,6 +4,14 @@ Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4
 
 ## Fall 2020
 
+### Nutritionix
+by Petra Pylkki
+
+The Nutritionix App is a nutrition/macro tracker. It helps signed-in users to keep on track of the food they have consumed and the nutritional values of them in progress circle. The app uses the Nutritionix API v2 Instant Endpoint, that provides autocomplete in textbox interfaces, in this case, the search bar. For user authentication and CRUD-functions, app uses Google Firebase Realtime Database.
+
+![screenshot]({{ site.baseurl }}/img/nutri1.png) ![screenshot]({{ site.baseurl }}/img/nutri2.png) ![screenshot]({{ site.baseurl }}/img/nutri3.png) 
+
+
 ### City Transit App
 
 The City Transit App can be used to locate city bikes all around the world. The app shows how many bikes are available in each location. The app can be also used to see public transport schedules  in the Helsinki area.
