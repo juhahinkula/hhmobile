@@ -11,6 +11,12 @@ The Nutritionix App is a nutrition/macro tracker. It helps signed-in users to ke
 
 ![screenshot]({{ site.baseurl }}/img/nutri1.png) ![screenshot]({{ site.baseurl }}/img/nutri2.png) ![screenshot]({{ site.baseurl }}/img/nutri3.png) 
 
+### Cocktailify
+by Nataliya Zinovyeva 
+
+Cocktailify - a mobile app for cocktail lovers. Enjoy cocktails wherever and whenever you want. Choose, explore, add to favourites, save ingredients to your shopping list! For Finnish users, search for the nearest Alko stores is available. The app even works as a cocktail shaker - shake it and it will offer you a new cocktail every time, you just have to choose!
+
+![screenshot]({{ site.baseurl }}/img/coctail1.png) ![screenshot]({{ site.baseurl }}/img/coctail2.png) ![screenshot]({{ site.baseurl }}/img/coctail3.png) 
 
 ### City Transit App
 
