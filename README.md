@@ -31,6 +31,12 @@ An app to track daily water intake made using Expo, React Native and Firebase Re
 
 ![screenshot]({{ site.baseurl }}/img/Water1.png) ![screenshot]({{ site.baseurl }}/img/Water2.png) ![screenshot]({{ site.baseurl }}/img/Water3.png) 
 
+### Travsinki
+
+Travsinki is an app for searching places in Helsinki. The app shows restaurants, parks, saunas and more in Helsinki and display it on a map.
+
+![screenshot]({{ site.baseurl }}/img/trav1.PNG) ![screenshot]({{ site.baseurl }}/img/trav2.PNG) ![screenshot]({{ site.baseurl }}/img/trav3.PNG) 
+
 
 ## Spring 2020
 
