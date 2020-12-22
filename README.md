@@ -31,6 +31,12 @@ An app to track daily water intake made using Expo, React Native and Firebase Re
 
 ![screenshot]({{ site.baseurl }}/img/Water1.png) ![screenshot]({{ site.baseurl }}/img/Water2.png) ![screenshot]({{ site.baseurl }}/img/Water3.png) 
 
+### LifeSteal
+
+LifeSteal App, a videogame manager application named after one of the most common character stats in videogames and role-playing games, gives access to the world’s largest videogame database – RAWG. Through its API service it provides search and game suggestion functionalities. Another feature of this app is Quest Log, a list of game challenges saved with Firebase Realtime Database.
+
+![screenshot]({{ site.baseurl }}/img/life1.png) ![screenshot]({{ site.baseurl }}/img/life2.png) ![screenshot]({{ site.baseurl }}/img/life3.png) 
+
 ### Travsinki
 
 Travsinki is an app for searching places in Helsinki. The app shows restaurants, parks, saunas and more in Helsinki and display it on a map.
