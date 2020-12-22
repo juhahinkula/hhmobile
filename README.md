@@ -11,6 +11,21 @@ The Nutritionix App is a nutrition/macro tracker. It helps signed-in users to ke
 
 ![screenshot]({{ site.baseurl }}/img/nutri1.png) ![screenshot]({{ site.baseurl }}/img/nutri2.png) ![screenshot]({{ site.baseurl }}/img/nutri3.png) 
 
+### FoodYeti
+by Raphaël Darbellay
+
+The application developed allows you to order food in restaurants to avoid waiting in the often long queues.
+
+Users have the possibility to log in or create an account. Each user can then freely browse through the list of all the restaurants or categories available in the application or consult them on the interactive map available. This data is provided through a third party Rest API. Once the user has chosen their restaurant, they easily compose their menu, select a retrieval method, time and date and confirm their order. The currently available retrieval methods are : Delivery, Pick-up at the restaurant, Eating on site. A notification is sent in the application only for each new order so that the order can be easily retrieved later.
+
+Orders are easily manageable thanks to the QR code system. Each order has a unique QR code which makes it easy to retrieve and collect the order when picking up the dishes.
+
+Users can edit their profile from within the application, all data is stored online using Firebase Database and Firebase Storage.
+
+See more: https://raphaeldarbellay.ch/portfolio-archive/foodyeti/
+
+![screenshot]({{ site.baseurl }}/img/yeti1.PNG) ![screenshot]({{ site.baseurl }}/img/yeti2.PNG) ![screenshot]({{ site.baseurl }}/img/yeti3.PNG) 
+
 ### Cocktailify
 by Nataliya Zinovyeva 
 
