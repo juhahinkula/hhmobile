@@ -4,7 +4,12 @@ Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4
 
 ## Spring 2021
 
-Coming soon...
+### Mini Museum
+
+The Mini Museum is virtual museuem app where you can find Egyptian and Chinese museum treasures. Use can login to the app and mark items to the favourites.
+
+![screenshot]({{ site.baseurl }}/img/museum1.jpg) ![screenshot]({{ site.baseurl }}/img/museum2.jpg) ![screenshot]({{ site.baseurl }}/img/museum3.jpg) 
+
 
 ## Fall 2020
 
