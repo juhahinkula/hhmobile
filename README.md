@@ -10,6 +10,10 @@ The Mini Museum is virtual museum app where you can find Egyptian and Chinese mu
 
 ![screenshot]({{ site.baseurl }}/img/museum1.jpg) ![screenshot]({{ site.baseurl }}/img/museum2.jpg) ![screenshot]({{ site.baseurl }}/img/museum3.jpg) 
 
+## The Receipe App
+by Marcus Moe
+
+The Recipe App helps you find new and exciting recipes.The app allows for filtering based on mealtype, diet, calorie count and more, as well as searching for your favorite recipes.Furthermore, the app allows for displaying nutrition values from a recipe in informative graphs. If you really enjoy a particular recipe, a saving functionality provides easy access at a later point in time. The app utilizes the Edamam Recipe Search API for fetching recipes and Firebase Realtime Database for saving your favorite recipes. Sourcecode: https://github.com/marcusbrmoe/MobileRecipeApplication
 
 ## Fall 2020
 
