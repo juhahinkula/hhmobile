@@ -15,6 +15,8 @@ by Marcus Moe
 
 The Recipe App helps you find new and exciting recipes.The app allows for filtering based on mealtype, diet, calorie count and more, as well as searching for your favorite recipes.Furthermore, the app allows for displaying nutrition values from a recipe in informative graphs. If you really enjoy a particular recipe, a saving functionality provides easy access at a later point in time. The app utilizes the Edamam Recipe Search API for fetching recipes and Firebase Realtime Database for saving your favorite recipes. Sourcecode: https://github.com/marcusbrmoe/MobileRecipeApplication
 
+![screenshot]({{ site.baseurl }}/img/receipe1.png) ![screenshot]({{ site.baseurl }}/img/receipe2.png) ![screenshot]({{ site.baseurl }}/img/receipe3.png) 
+
 ## Fall 2020
 
 ### Nutritionix
