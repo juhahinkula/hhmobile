@@ -17,6 +17,15 @@ The Recipe App helps you find new and exciting recipes.The app allows for filter
 
 ![screenshot]({{ site.baseurl }}/img/receipe1.PNG) ![screenshot]({{ site.baseurl }}/img/receipe2.PNG) ![screenshot]({{ site.baseurl }}/img/receipe3.PNG) 
 
+### Aircut
+by Ruskin Kollin
+
+No matter where you live, you can be exposed to air pollution. It can contribute to smallannoyances like coughing or itchy eyes to worse diseases like cancer. With this app, you can monitor the air quality in your area and warn you of high pollution. The app will also provide data on weather such as humidity and windspeed. It can detect your location and show data immediately. It has also search functionalities to find what you are looking for faster. Moreover, users can save a city for easier access to its information. Take a walk or recycle, save our air!
+
+![screenshot]({{ site.baseurl }}/img/aircut1.jpg) ![screenshot]({{ site.baseurl }}/img/aircut2.jpg) ![screenshot]({{ site.baseurl }}/img/aircut3.jpg) 
+
+
+
 ## Fall 2020
 
 ### Nutritionix
