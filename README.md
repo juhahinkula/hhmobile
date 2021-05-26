@@ -24,6 +24,11 @@ No matter where you live, you can be exposed to air pollution. It can contribute
 
 ![screenshot]({{ site.baseurl }}/img/aircut1.jpg) ![screenshot]({{ site.baseurl }}/img/aircut2.jpg) ![screenshot]({{ site.baseurl }}/img/aircut3.jpg) 
 
+### BookApp
+by Veera Aaltonen
+
+BookApp allows you to search for books by title and author name, and save interesting books to user's own favorites. User needs to create account and login to the app to be able to search books and add them to favorites. User can search books, read information about them and add them to their favorites. Favorites can be found from user profile page. Profile page holds user's profile picture and logout-button. Firebase works as a database and app also uses Firebase auth to authenticate user. Book data comes from Google Book API.
+
 
 
 ## Fall 2020
