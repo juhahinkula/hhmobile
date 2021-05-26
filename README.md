@@ -36,6 +36,8 @@ by Quan Dao
 
 With this app,  users can find the lyric of favorite songs in all over the world. They can easily find the best songs so far in different countries, or in different genre like acoustic, jazz, pop, etc. Besides, users can search specific song by the song name or the best albums by the artist’s name. If like it, they can add the song to the favorite list, which is handle by firebase, for later usage and easily remove it. Finally, the app has the login signup system to improve the security and authentication. 
 
+![screenshot]({{ site.baseurl }}/img/lyricsapp1.jpg) ![screenshot]({{ site.baseurl }}/img//lyricsapp2.jpg) ![screenshot]({{ site.baseurl }}/img//lyricsapp3.jpg) 
+
 
 ## Fall 2020
 
