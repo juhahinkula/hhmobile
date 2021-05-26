@@ -29,6 +29,7 @@ by Veera Aaltonen
 
 BookApp allows you to search for books by title and author name, and save interesting books to user's own favorites. User needs to create account and login to the app to be able to search books and add them to favorites. User can search books, read information about them and add them to their favorites. Favorites can be found from user profile page. Profile page holds user's profile picture and logout-button. Firebase works as a database and app also uses Firebase auth to authenticate user. Book data comes from Google Book API.
 
+![screenshot]({{ site.baseurl }}/img/bookapp1.jpeg) ![screenshot]({{ site.baseurl }}/img/bookapp2.jpeg) ![screenshot]({{ site.baseurl }}/img/bookapp3.jpeg) 
 
 
 ## Fall 2020
