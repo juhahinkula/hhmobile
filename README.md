@@ -6,21 +6,21 @@ Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4
 
 ### Mini Museum
 
-The Mini Museum is virtual museum app where you can find Egyptian and Chinese museum treasures. Use can login to the app and mark items to the favourites. The app is developed with React Native and Firebase. The data comes from the Metropolitan Museum of Art Collection API (https://metmuseum.github.io/)
+The Mini Museum is virtual museum app where you can find Egyptian and Chinese museum treasures. User can login to the app and mark items to the favourites. The app is developed with React Native and Firebase. The data comes from the Metropolitan Museum of Art Collection API (https://metmuseum.github.io/)
 
 ![screenshot]({{ site.baseurl }}/img/museum1.jpg) ![screenshot]({{ site.baseurl }}/img/museum2.jpg) ![screenshot]({{ site.baseurl }}/img/museum3.jpg) 
 
 ### The Receipe App
 by Marcus Moe
 
-The Recipe App helps you find new and exciting recipes.The app allows for filtering based on mealtype, diet, calorie count and more, as well as searching for your favorite recipes.Furthermore, the app allows for displaying nutrition values from a recipe in informative graphs. If you really enjoy a particular recipe, a saving functionality provides easy access at a later point in time. The app utilizes the Edamam Recipe Search API for fetching recipes and Firebase Realtime Database for saving your favorite recipes. Sourcecode: https://github.com/marcusbrmoe/MobileRecipeApplication
+The Recipe App helps you to find new and exciting recipes.The app allows for filtering based on mealtype, diet, calorie count and more, as well as searching for your favorite recipes.Furthermore, the app allows for displaying nutrition values from a recipe in informative graphs. If you really enjoy a particular recipe, a saving functionality provides easy access at a later point in time. The app utilizes the Edamam Recipe Search API for fetching recipes and Firebase Realtime Database for saving your favorite recipes. Sourcecode: https://github.com/marcusbrmoe/MobileRecipeApplication
 
 ![screenshot]({{ site.baseurl }}/img/receipe1.PNG) ![screenshot]({{ site.baseurl }}/img/receipe2.PNG) ![screenshot]({{ site.baseurl }}/img/receipe3.PNG) 
 
 ### Aircut
 by Ruskin Kollin
 
-No matter where you live, you can be exposed to air pollution. It can contribute to smallannoyances like coughing or itchy eyes to worse diseases like cancer. With this app, you can monitor the air quality in your area and warn you of high pollution. The app will also provide data on weather such as humidity and windspeed. It can detect your location and show data immediately. It has also search functionalities to find what you are looking for faster. Moreover, users can save a city for easier access to its information. Take a walk or recycle, save our air!
+No matter where you live, you can be exposed to air pollution. It can contribute to small annoyances like coughing or itchy eyes to worse diseases like cancer. With this app, you can monitor the air quality in your area and warn you of high pollution. The app will also provide data on weather such as humidity and windspeed. It can detect your location and show data immediately. It has also search functionalities to find what you are looking for faster. Moreover, users can save a city for easier access to its information. Take a walk or recycle, save our air!
 
 ![screenshot]({{ site.baseurl }}/img/aircut1.jpg) ![screenshot]({{ site.baseurl }}/img/aircut2.jpg) ![screenshot]({{ site.baseurl }}/img/aircut3.jpg) 
 
