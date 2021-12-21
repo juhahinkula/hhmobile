@@ -11,6 +11,12 @@ Book Owl allows the user to search, rate and save books into three different boo
 
 ![screenshot]({{ site.baseurl }}/img/bookowl1.jpg) ![screenshot]({{ site.baseurl }}/img/bookowl2.jpg) ![screenshot]({{ site.baseurl }}/img/bookowl3.jpg) 
 
+### Wine App
+
+React native application made with styled-components that suggests randomly chosen wines and allows user to find wines by name or with filter and examine chosen wine. User can also select favorites which saves them to firebase database for further use.
+
+![screenshot]({{ site.baseurl }}/img/winery1.jpg) ![screenshot]({{ site.baseurl }}/img/winery2.jpg) ![screenshot]({{ site.baseurl }}/img/winery3.jpg) 
+
 
 ## Spring 2021
 
