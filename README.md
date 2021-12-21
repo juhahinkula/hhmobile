@@ -17,6 +17,13 @@ React native application made with styled-components that suggests randomly chos
 
 ![screenshot]({{ site.baseurl }}/img/winery1.png) ![screenshot]({{ site.baseurl }}/img/winery2.png) ![screenshot]({{ site.baseurl }}/img/winery3.png) 
 
+### CryptoWallet 
+by Son Trinh
+
+CryptoWallet application can be used to track the price of top coins in the market or the coins you have in your portfolio. The application using the live chart to show the live price as well as the chart to show the index of the coins. The application using React Redux, Redux Thunk, React Native Chart Kit and Rainbow Animated Chart. Coins data comes from Coingecko API. 
+
+![screenshot]({{ site.baseurl }}/img/crypto1.png) ![screenshot]({{ site.baseurl }}/img/crypto2.png) ![screenshot]({{ site.baseurl }}/img/crypto3.png) 
+
 ### Password App
 
 App is used for generating random passwords and storing them along with username and provider name to your device. User authentication is done with Firebase, which provides each user with unique id to access your encrypted password information. Passwords generated with PasswordWolf API.
