@@ -17,6 +17,12 @@ React native application made with styled-components that suggests randomly chos
 
 ![screenshot]({{ site.baseurl }}/img/winery1.png) ![screenshot]({{ site.baseurl }}/img/winery2.png) ![screenshot]({{ site.baseurl }}/img/winery3.png) 
 
+### Password App
+
+App is used for generating random passwords and storing them along with username and provider name to your device. User authentication is done with Firebase, which provides each user with unique id to access your encrypted password information. Passwords generated with PasswordWolf API.
+
+![screenshot]({{ site.baseurl }}/img/pwd1.jpg) ![screenshot]({{ site.baseurl }}/img//pwd2.jpg) ![screenshot]({{ site.baseurl }}/img//pwd3.jpg) 
+
 
 ## Spring 2021
 
