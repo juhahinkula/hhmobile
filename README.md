@@ -30,6 +30,12 @@ App is used for generating random passwords and storing them along with username
 
 ![screenshot]({{ site.baseurl }}/img/pwd1.jpg) ![screenshot]({{ site.baseurl }}/img//pwd2.jpg) ![screenshot]({{ site.baseurl }}/img//pwd3.jpg) 
 
+### Lyrico
+
+Lyrico is an app where you can find lyrics for almost any song available on Spotify. When you look for a song you will be able to favorite it and even play a 30 second preview directly from Spotify. You can also reverse search songs with lyrics.
+
+![screenshot]({{ site.baseurl }}/img/lyrico1.jpg) ![screenshot]({{ site.baseurl }}/img//lyrico2.jpg) ![screenshot]({{ site.baseurl }}/img//lyrico3.jpg) 
+
 
 ## Spring 2021
 
