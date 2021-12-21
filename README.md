@@ -2,6 +2,16 @@
 
 Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4th semester course for software development students. The course contains the basics of React Native and students will develop their own mobile app at the end of the course. This site contains some example apps that students have made during the course.
 
+## Fall 2021
+
+### Book Owl
+by Jelena Laakkonen 
+
+Book Owl allows the user to search, rate and save books into three different bookshelves (Want to Read, Reading, Read). From the Home page the user can search by predetermined genres and from the Search page by title or author. By clicking one of the books the user can see more information about the book. To use the application the user must first create an account and log in. All the user's bookshelves and ratings are personal. The application uses Firebase Realtime Database and Firebase auth for authentication. The books are fetched from the Google Book API.
+
+![screenshot]({{ site.baseurl }}/img/bookowl1.jpg) ![screenshot]({{ site.baseurl }}/img/bookowl2.jpg) ![screenshot]({{ site.baseurl }}/img/bookowl3.jpg) 
+
+
 ## Spring 2021
 
 ### Mini Museum
