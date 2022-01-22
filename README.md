@@ -4,6 +4,12 @@ Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4
 
 ## Fall 2021
 
+### Fitness app
+
+The Fitness App will give you workout inspiration by giving access to different workout moves, gives you a possibility to keep a journal in it and you can also check your daily, weekly and monthly steps from it. In the app you can search for movements by bodypart categories or by searching by the targeted area. The app is developed with React Native and the workout moves are fetched from an API called ExerciseDB on RapidApi.
+
+![screenshot]({{ site.baseurl }}/img/fitness1.PNG) ![screenshot]({{ site.baseurl }}/img/fitness2.PNG) ![screenshot]({{ site.baseurl }}/img/fitness3.PNG) 
+
 ### Book Owl
 by Jelena Laakkonen 
 
