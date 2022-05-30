@@ -2,7 +2,14 @@
 
 Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4th semester course for software development students. The course contains the basics of React Native and students will develop their own mobile app at the end of the course. This site contains some example apps that students have made during the course.
 
-## Fall 2021
+## Year 2021
+
+### Anime Nation
+by Giovani Francisco
+Anime Nation provides users with boundless knowledge of amazing and perplexed animated videos from Ghibli Studio. Anime films that were brought to life from the genius minds of their creators. The application provides information like plot, images, and some basic details about the movies. Once an account has been created, you are then able to navigate through the provided facts from the Studio Ghibli API where you can view all movies and can save
+them too, in your favorites. Try it here: (https://expo.dev/@giofra/animenation)
+
+![screenshot]({{ site.baseurl }}/img/anime_nation.PNG)
 
 ### Fitness app
 
