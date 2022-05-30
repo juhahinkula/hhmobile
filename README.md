@@ -12,6 +12,16 @@ them too, in your favorites. Try it here: (https://expo.dev/@giofra/animenation)
 
 ![screenshot]({{ site.baseurl }}/img/anime_nation.PNG)
 
+### FineGrind
+
+by Rita Miklán
+
+This is React Native app for listing and finding small 3rd wave coffee shops who serve specialty coffee and feature a selection from local roasteries.Currently focusing on Helsinki, Finland, but with a possibility to expand to more cities and countries later on.
+
+![screenshot]({{ site.baseurl }}/img/coffee_grind1.jpg)![screenshot]({{ site.baseurl }}/img/coffee_grind2.jpg)
+![screenshot]({{ site.baseurl }}/img/coffee_grind3.jpg)
+
+
 ## Year 2021
 
 ### Fitness app
