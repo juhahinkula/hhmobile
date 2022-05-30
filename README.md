@@ -2,7 +2,7 @@
 
 Mobile Programming is [Haaga Helia's](https://www.haaga-helia.fi/en/frontpage) 4th semester course for software development students. The course contains the basics of React Native and students will develop their own mobile app at the end of the course. This site contains some example apps that students have made during the course.
 
-## Year 2021
+## Year 2022
 
 ### Anime Nation
 by Giovani Francisco
@@ -11,6 +11,8 @@ Anime Nation provides users with boundless knowledge of amazing and perplexed an
 them too, in your favorites. Try it here: (https://expo.dev/@giofra/animenation)
 
 ![screenshot]({{ site.baseurl }}/img/anime_nation.PNG)
+
+## Year 2021
 
 ### Fitness app
 
@@ -49,9 +51,6 @@ App is used for generating random passwords and storing them along with username
 Lyrico is an app where you can find lyrics for almost any song available on Spotify. When you look for a song you will be able to favorite it and even play a 30 second preview directly from Spotify. You can also reverse search songs with lyrics.
 
 ![screenshot]({{ site.baseurl }}/img/lyrico1.jpg) ![screenshot]({{ site.baseurl }}/img//lyrico2.jpg) ![screenshot]({{ site.baseurl }}/img//lyrico3.jpg) 
-
-
-## Spring 2021
 
 ### Mini Museum
 
